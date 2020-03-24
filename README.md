@@ -1,4 +1,4 @@
-#Git Branching Exercise
+# Git Branching Exercise
 
 This is an exercise on git branching on my own repo.
 
